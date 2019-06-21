@@ -21,7 +21,7 @@ Ingredients
     6 ounces finely chopped dark chocolate, about 72% (about 1 cup; 170g)
     16 ounces white sugar (about 2 1/4 cups; 450g)
     2 ounces light brown sugar (about 1/4 cup, packed; 55g)
-    1 3/4 teaspoons (4g) Diamond Crystal kosher salt; for table salt, use about half as much by volume or the same weight
+    1 3/4 teaspoons (4g) Diamond Crystal kosher salt; for table salt, use about half as much by volume or the same weight (salted butter adds ~5g)
     6 large eggs, straight from the fridge (about 10 1/2 ounces; 295g)
     1/2 ounce vanilla extract (about 1 tablespoon; 15g)
     1 teaspoon instant espresso powder, such as Medaglia d’Oro (optional)
@@ -47,3 +47,7 @@ Make-Ahead and Storage
 Stored in an airtight container, with a sheet of wax paper between the layers, the brownies will keep about 1 week at room temperature.
 
 https://www.seriouseats.com/recipes/2018/02/bravetart-glossy-fudge-brownies.html
+
+Attempt 1:
+- foil in at 30 min
+- total time: 1 h 15 min
